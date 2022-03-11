@@ -1,0 +1,121 @@
+body,html{
+    font-family: 'Dancing Script', cursive !important;
+    height:100%;
+    margin:0;
+    padding:0;
+}
+.intro{
+    height:95%;
+    background:url(../gallery/19.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    position: inherit;
+    background-position: center;
+}
+.navy-blue{
+    color:#465dab;
+}
+.lilac{
+    background-color:#C8A2C8 !important;
+}
+.lilac1{
+    color:#C8A2C8 !important;
+}
+.purp{
+    color:#d500f9;
+}
+.center{
+    position:absolute;
+    top: 10%;
+    left: 55%;
+    transform: translate(-50%,-50%)
+}
+.aboutus{
+    padding:1%;
+    margin-bottom: 1%;
+}
+
+section{
+    margin-top:1%;
+}
+h1{
+    margin-bottom: 1%;
+}
+
+i{
+    font-size: 2rem;
+}
+h5{
+    text-align: center;
+}
+.s4 img{
+    margin:2%;
+}
+:root {
+    --animate-duration: 3s;
+  }
+  .s6 h6{
+      top:50%;
+      transform: translateY(50%)
+  }
+  .s6 p{
+      text-align: justify;
+      font-size: 1.345rem;
+  }
+.border{
+    border:1px black solid;
+    box-shadow: 2px 2px 2px #e1affd;
+    background-color: #f0ceff;
+}
+
+img.responsive-img.materialboxed {
+    margin-bottom: 15%;
+}
+.photo-size{
+    object-fit: cover;
+    height: 20rem !important;
+    align-self: center;
+}
+.card{
+    padding-top: 5%;
+    margin:0;
+}
+#abtus{
+    display:block;
+    text-align: center;
+}
+.card .card-content {
+    margin-top: 5%;
+    height:20rem;
+    background-color:#f0ceff;
+}
+.n{
+    margin-top: 5%;;
+    font-size:5rem !important;
+}
+
+.cent{
+    transform: translateY(7rem);
+}
+.gallery  img{
+    height: 20rem;
+}
+.card-content p{
+    margin-top: 10% !important;
+}
+
+element.style {
+}
+.card .card-content .card-title {
+    line-height: 0;
+    padding :2%;
+}
+a{
+    font-size: 2rem;
+}
+.timeline__event{
+    padding:0.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
