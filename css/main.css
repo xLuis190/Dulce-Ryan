@@ -86,7 +86,6 @@ img.responsive-img.materialboxed {
 }
 .card .card-content {
     margin-top: 5%;
-    height:20rem;
     background-color:#f0ceff;
 }
 .n{
@@ -115,7 +114,4 @@ a{
 }
 .timeline__event{
     padding:0.5rem;
-}
-p{
-    font-size: 1.5rem;
 }
