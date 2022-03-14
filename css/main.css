@@ -87,7 +87,7 @@ img.responsive-img.materialboxed {
 }
 .card .card-content {
     margin-top: 5%;
-    background-color:#f0ceff;
+    background-color:#aff1b6;
 }
 .n{
     margin-top: 5%;;
@@ -113,4 +113,7 @@ a{
 }
 .timeline__event{
     padding:0.5rem;
+}
+.yellow1{
+    color:#ffee58 !important; 
 }
